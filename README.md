@@ -244,7 +244,7 @@ Create a new branch so you can check items like this, just put an x in the brack
 
     ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
 
-1. Clone to your local repo:
+1. Clone to your local repo: [x]
 
     ```bash
     git clone https://github.com/<YOUR_GITHUB_USERNAME>/coding-interview-university.git
